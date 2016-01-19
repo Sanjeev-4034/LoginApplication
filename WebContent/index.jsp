@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Enter the credentials</h1>
-<form method="get" action="DisplayServlet">
+<form method="post" action="DisplayServlet">
 <p>${errorMessage}</p>
 <table>
 <tr>
